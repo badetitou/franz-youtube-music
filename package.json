@@ -1,0 +1,13 @@
+{
+  "id": "YouTube Music",
+  "name": "YouTube Music",
+  "version": "1.0.0",
+  "description": "YouTube music",
+  "main": "index.js",
+  "author": "Benoît Verhaeghe <badetitou@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://music.youtube.com/",
+    "hasNotificationSound": false
+  }
+}
